@@ -1,4 +1,4 @@
-# Datapaga Backoffice
+# Backoffice
 
 * `yarn install`
 * `yarn start`
